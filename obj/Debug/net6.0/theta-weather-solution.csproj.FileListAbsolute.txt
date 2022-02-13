@@ -1,0 +1,15 @@
+/Users/chris/Projects/theta-weather-solution/bin/Debug/net6.0/theta-weather-solution
+/Users/chris/Projects/theta-weather-solution/bin/Debug/net6.0/theta-weather-solution.deps.json
+/Users/chris/Projects/theta-weather-solution/bin/Debug/net6.0/theta-weather-solution.runtimeconfig.json
+/Users/chris/Projects/theta-weather-solution/bin/Debug/net6.0/theta-weather-solution.dll
+/Users/chris/Projects/theta-weather-solution/bin/Debug/net6.0/ref/theta-weather-solution.dll
+/Users/chris/Projects/theta-weather-solution/bin/Debug/net6.0/theta-weather-solution.pdb
+/Users/chris/Projects/theta-weather-solution/obj/Debug/net6.0/theta-weather-solution.csproj.AssemblyReference.cache
+/Users/chris/Projects/theta-weather-solution/obj/Debug/net6.0/theta-weather-solution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chris/Projects/theta-weather-solution/obj/Debug/net6.0/theta-weather-solution.AssemblyInfoInputs.cache
+/Users/chris/Projects/theta-weather-solution/obj/Debug/net6.0/theta-weather-solution.AssemblyInfo.cs
+/Users/chris/Projects/theta-weather-solution/obj/Debug/net6.0/theta-weather-solution.csproj.CoreCompileInputs.cache
+/Users/chris/Projects/theta-weather-solution/obj/Debug/net6.0/theta-weather-solution.dll
+/Users/chris/Projects/theta-weather-solution/obj/Debug/net6.0/ref/theta-weather-solution.dll
+/Users/chris/Projects/theta-weather-solution/obj/Debug/net6.0/theta-weather-solution.pdb
+/Users/chris/Projects/theta-weather-solution/obj/Debug/net6.0/theta-weather-solution.genruntimeconfig.cache
